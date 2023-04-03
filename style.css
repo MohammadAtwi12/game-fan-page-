@@ -124,6 +124,18 @@ header nav.menu-area ul li ul.submenu-1 li:hover a{
     align-items: center;
 }
 
+.logsin a{
+    color: #fff;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.logsin .login a{
+    color: #000;
+    font-size: 13px;
+    text-decoration: none;
+}
+
 .logsin .signup {
     border: 0;
     background-color:#1f2a35;
